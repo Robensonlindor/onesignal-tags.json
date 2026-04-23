@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23579111338",
+    "project_id": "rylance-8b3c4",
+    "storage_bucket": "rylance-8b3c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23579111338:android:4789d87a7223a979c9c5d3",
+        "android_client_info": {
+          "package_name": "co.median.android.jbezowj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM43INtpLuxzbqZBtLoc6rsmKEkGT1tlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
